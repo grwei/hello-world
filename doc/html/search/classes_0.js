@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['linkqueue_21',['linkQueue',['../class_queue_1_1link_queue.html',1,'Queue']]]
+  ['linkqueue_35',['linkQueue',['../class_queue_1_1link_queue.html',1,'Queue']]]
 ];

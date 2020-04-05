@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['_7elinkqueue_41',['~linkQueue',['../class_queue_1_1link_queue.html#a4acd9ab12441d2135920e33b54f26b63',1,'Queue::linkQueue']]],
-  ['_7equeue_42',['~Queue',['../class_queue_1_1_queue.html#aa895cc6f12f03d84e4dc5e5b0a2138f3',1,'Queue::Queue']]],
-  ['_7eseqqueue_43',['~seqQueue',['../class_queue_1_1seq_queue.html#ab40ca4c38e5b5bdbd3e2552a4185793d',1,'Queue::seqQueue']]]
+  ['seqqueue_56',['seqQueue',['../class_queue_1_1seq_queue.html#af757e44969c5b3e54462df0df415315c',1,'Queue::seqQueue']]],
+  ['size_57',['size',['../class_queue_1_1link_queue.html#a9ddfcaefd4d1a8dce222c978d35f1474',1,'Queue::linkQueue::size()'],['../class_queue_1_1seq_queue.html#a3c7041a7aae2c0fc3e9f71a1a4da0574',1,'Queue::seqQueue::size()']]]
 ];
