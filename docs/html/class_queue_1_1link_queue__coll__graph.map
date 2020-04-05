@@ -1,4 +1,5 @@
 <map id="Queue::linkQueue&lt; T &gt;" name="Queue::linkQueue&lt; T &gt;">
-<area shape="rect" id="node1" title="linkQueue类的定义" alt="" coords="5,80,163,107"/>
-<area shape="rect" id="node2" href="$class_queue_1_1_queue.html" title="队列的抽象类" alt="" coords="15,5,153,32"/>
+<area shape="rect" id="node1" title="linkQueue类的定义" alt="" coords="47,124,205,151"/>
+<area shape="rect" id="node2" href="$class_queue_1_1_queue.html" title="队列的抽象类" alt="" coords="5,13,143,39"/>
+<area shape="rect" id="node3" href="$struct_queue_1_1link_queue_1_1node.html" title="linkQueue的结点类" alt="" coords="167,5,312,47"/>
 </map>

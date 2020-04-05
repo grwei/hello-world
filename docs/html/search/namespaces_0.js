@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['queue_24',['Queue',['../namespace_queue.html',1,'']]]
+  ['queue_39',['Queue',['../namespace_queue.html',1,'']]]
 ];

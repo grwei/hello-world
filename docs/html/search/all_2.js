@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['empty_2',['empty',['../class_queue_1_1link_queue.html#ac48d4ae12a9424ed78c3067c3fc89af5',1,'Queue::linkQueue::empty()'],['../class_queue_1_1seq_queue.html#a99456c2d4e2034b8304de5c153caf06f',1,'Queue::seqQueue::empty()']]],
-  ['enqueue_3',['enQueue',['../class_queue_1_1link_queue.html#aede436261be17f6040b8978da00beae2',1,'Queue::linkQueue::enQueue()'],['../class_queue_1_1_queue.html#aa2ef424f20563040f57f0c61ec7bb218',1,'Queue::Queue::enQueue()'],['../class_queue_1_1seq_queue.html#ab2052ffdebba52e6d337c2fd15559fc9',1,'Queue::seqQueue::enQueue()']]]
+  ['const_5freference_8',['const_reference',['../class_queue_1_1link_queue.html#a1ffba1b3394857d6a2d25be65778cad4',1,'Queue::linkQueue::const_reference()'],['../class_queue_1_1_queue.html#ad9f80e94b3756f35d8607a3e3db496e6',1,'Queue::Queue::const_reference()'],['../class_queue_1_1seq_queue.html#a3bebbc340a48bef0873bc70922052338',1,'Queue::seqQueue::const_reference()']]]
 ];
