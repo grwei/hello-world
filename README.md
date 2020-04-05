@@ -1,6 +1,6 @@
 # hello-world
 
-My first repo. 
+My first repo.
 
 ## Description
 
@@ -10,6 +10,6 @@ test
 
 dd
 
-## ?
+## what
 
 dd
