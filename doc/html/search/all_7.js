@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['isempty_15',['isEmpty',['../class_queue_1_1link_queue.html#ab2530a905f47965fa272fa9462ed6949',1,'Queue::linkQueue::isEmpty()'],['../class_queue_1_1_queue.html#a6365212cc8eddb4a9cfcd01157871a28',1,'Queue::Queue::isEmpty()'],['../class_queue_1_1seq_queue.html#ac89d7e2f3fbba70c064df87344b141c7',1,'Queue::seqQueue::isEmpty()']]]
+  ['hasloprithan_44',['hasLoPriThan',['../struct_r_p_n_1_1_rpn__t_1_1_item.html#a108cf06868968311383cf866288db1e1',1,'RPN::Rpn_t::Item']]],
+  ['head_45',['head',['../class_list_1_1d_link_list.html#ac48edb97c50b03c02582f1d700c88b27',1,'List::dLinkList::head()'],['../class_list_1_1s_link_list.html#a4d70dbac0ed28aa35c6f888112bf89c9',1,'List::sLinkList::head()']]]
 ];
